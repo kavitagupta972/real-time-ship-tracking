@@ -21,8 +21,6 @@ Ship Simulator → Kafka → Spring Boot Consumer → Redis (Latest State)
 
 📈 Horizontally scalable architecture
 
-🎯 Interview & corporate training ready
-
 🏗️ System Diagram (Mermaid)
 flowchart LR
   A[Ship Simulator] --> B[Kafka Topic]
@@ -44,7 +42,7 @@ ship-tracking-platform/
 └── README.md
 🚀 Quick Start (5 Minutes)
 1️⃣ Clone Repo
-git clone https://github.com/your-username/real-time-ship-tracking.git
+git clone <repo url>
 cd real-time-ship-tracking
 2️⃣ Start Kafka + Redis
 cd backend
